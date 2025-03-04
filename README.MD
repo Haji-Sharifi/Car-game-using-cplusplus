@@ -23,7 +23,7 @@ Using Code::Blocks or Dev-C++:
     Click Build → Compile & Run.
 
 License 📜
-![alt text](<Screenshot 2025-03-05 014612.png>) <br />
+![alt text](<Screenshot 2025-03-05 014612.png>)
 ![alt text](<Screenshot 2025-03-05 014636.png>)
 
 This project is open-source. Feel free to modify and improve it! 🚀
