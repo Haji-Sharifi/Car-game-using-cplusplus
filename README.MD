@@ -22,14 +22,11 @@ Using Code::Blocks or Dev-C++:
     Open the .cpp file in Code::Blocks or Dev-C++.
     Click Build → Compile & Run.
 
-Screenshots (Optional) 🖼️
-
-You can add some CLI screenshots here to show how the game looks!
 License 📜
+![alt text](<Screenshot 2025-03-05 014612.png>) <br />
+![alt text](<Screenshot 2025-03-05 014636.png>)
 
-This project is open-source. Feel free to modify and improve it!
-
-Let me know if you want any changes! 🚀
+This project is open-source. Feel free to modify and improve it! 🚀
 "# Car-game-using-c++"
 
 Enjoy this Cli game
