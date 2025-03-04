@@ -30,4 +30,6 @@ License 📜
 This project is open-source. Feel free to modify and improve it!
 
 Let me know if you want any changes! 🚀
-"# Car-game-using-c-" 
+"# Car-game-using-c-"
+
+enjoy this cli game
